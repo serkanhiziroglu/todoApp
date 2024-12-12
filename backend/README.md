@@ -27,8 +27,8 @@ A RESTful API for a Todo List application built with Express.js, TypeScript, and
     npm install
     
 4. **Set Up Environment Variables**
-    Create a .env file in the root directory and add the following:
     ```bash
+    # Create a .env file in the root directory and add the following:
     DATABASE_URL="mysql://root@localhost:3306/todo_db"
     PORT=3001
     

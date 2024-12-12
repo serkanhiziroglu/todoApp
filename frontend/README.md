@@ -22,4 +22,3 @@ A modern Todo List application built with Next.js, TypeScript, and Tailwind CSS.
     ```bash
     npm run dev
 
-
